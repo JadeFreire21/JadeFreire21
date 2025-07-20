@@ -2,7 +2,7 @@
 Sou estudante de Segurança da Informação e Biblioteconomia, atualmente aprimorando minhas habilidades em tecnologia.
 || Caminho acadêmico e interresses|
 |-------------------------|--------------------------|
-| Estudos |🎓 **Formação**: Tecnico integrado em Administração de empresa (C.E. CONS. Macedo Soares - 2016), Graduanda em Segurança da Informação (GRAN - 2024/2026) com interesse em Banco de Dados, Segurança da Informação e Graduanda em Biblioteconomia na Universidade Federal Fluminense - UFF (2025/2028), com interesse em Elaboração de Políticas de Segurança de Sistemas de Biblioteca.</br>📚 Realizando **Cursos**  na área de tecnologia para aprimorar conhecimentos em programação na Cisco e Fundação Bradesco.</br>🔐 Interesse em Banco de Dados e BackEnd.</br>
+| Estudos |🎓 **Formação**: Tecnico integrado em Administração de empresa (C.E. CONS. Macedo Soares - 2016), Graduanda em Segurança da Informação (GRAN - 2024/2026) com interesse em Banco de Dados, Graduanda em Biblioteconomia na Universidade Federal Fluminense - UFF (2025/2028), com interesse em Elaboração de Políticas de Segurança de Sistemas de Biblioteca.</br>📚 Realizando **Cursos**  na área de tecnologia para aprimorar conhecimentos em programação na Cisco e Fundação Bradesco.</br>🔐 Interesse em Banco de Dados e BackEnd.</br>
 | Hobbies | 📚 Ler livros.</br>📺 Assistir a séries e filmes.</br>🎶Escutar Música.</br>🏞️Fazer Trilha.<br>🎮 Jogar Vídeo game.
 
 ## 👩‍💻 Estudando Linguagens de programação
