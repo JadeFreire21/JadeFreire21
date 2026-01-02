@@ -14,7 +14,7 @@ Sou estudante de Segurança da Informação e Biblioteconomia, atualmente aprimo
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## MINHAS REDES
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=turquoise)](www.linkedin.com/in/jade-freire-coelho-marins)
+[![LinkedIn](www.linkedin.com/in/jade-freire-coelho-marins)
 [![GitHub Logo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/JadeFreire21)
 
 
