@@ -18,6 +18,15 @@ Sou estudante de Segurança da Informação e Biblioteconomia, atualmente aprimo
 [![GitHub Logo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/JadeFreire21)
 
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JadeFreire21/JadeFreire21/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JadeFreire21/JadeFreire21/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/JadeFreire21/JadeFreire21/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 
